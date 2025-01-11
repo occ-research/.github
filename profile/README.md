@@ -6,7 +6,7 @@ Research within the OCC group is guided by the central goals of understanding th
 Webpage:
 https://sites.temple.edu/oceanclimateconnections/
 
-For our research group, all important links to guidelines / resources can be found here:
+For our research group, all important links to guidelines / resources (bulleted below) can be found here:
 https://github.com/occ-research/general/wiki
 - Group Textbook
 - Group Slack workspace
